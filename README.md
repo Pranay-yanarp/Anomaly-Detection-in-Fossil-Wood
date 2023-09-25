@@ -1,4 +1,4 @@
-# Capstone Project
+# Anomaly Detection in Fossil Wood
 
 ## Summary
 This repository contains Capstone Project for my Master's in Data Science. Our Project aim was to develop a method to detect different patterns in high resolution wood fossil images to classify damaged/undamaged part of the wood.
